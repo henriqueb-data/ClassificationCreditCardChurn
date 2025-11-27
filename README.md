@@ -41,9 +41,9 @@ This project demonstrates an end-to-end machine learning workflow to predict chu
   - Techniques such as **downsampling (RandomUnderSampler)** or **oversampling (SMOTE)** to mitigate imbalance
 
 - **Modeling:**  
-  - Baseline models (Logistic Regression)  
-  - Tree-based methods (Random Forest, Gradient Boosting)  
-  - Boosted models (**AdaBoost**)  
+  - Gradient Boosting
+  - AdaBoost
+  - XGBoost
   - Model comparison using classification metrics
 
 - **Techniques:**  
